@@ -1,0 +1,7 @@
+server:
+  address: 34.80.162.89:443
+  password: mbproxy
+  method: aes-256-cfb
+listener:
+  socks: 127.0.0.1:9953
+  http: 127.0.0.1:9954
